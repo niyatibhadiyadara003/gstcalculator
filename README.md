@@ -4,7 +4,7 @@ A new GST CALCULATOR  project.
 
 ## Screen shots
 
-<img src='https://user-images.githubusercontent.com/102577515/169869138-a98e3427-600f-4f5e-8c38-7203a5a2ecb0.png',width=200/>
+<img src='https://user-images.githubusercontent.com/102577515/169869138-a98e3427-600f-4f5e-8c38-7203a5a2ecb0.png', width=200/>
 
 ## GIFS
 
